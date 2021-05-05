@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<productName>
+	<name>Template</name>
+	<services>
+		<service sequenceNumber="">
+			<name>Transport</name>
+			<link></link>
+			<functionName></functionName>
+		</service>
+	</services>
+</productName>

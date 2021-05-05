@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <workflowEngine>opc.tcp://DESKTOP-0AULV4D:10001</workflowEngine>
+    <serviceLib>opc.tcp://DESKTOP-0AULV4D:10002</serviceLib>
+	<processPath>processes/</processPath>
+	<servicePath>services/</servicePath>
+</configuration>
